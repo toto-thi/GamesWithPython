@@ -1,3 +1,3 @@
 # GamesWithPython
 
-Just for practicig Python
+Just for practicing Python
